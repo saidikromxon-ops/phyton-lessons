@@ -1,2 +1,2 @@
 # phyton-lessons
-ushbu repositoryda pyton daslaiga oid koplab kodlar jamlangan
+ushbu repositoryda python daslaiga oid koplab kodlar jamlangan
